@@ -1,0 +1,63 @@
+.sort-radio-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.sort-radio-element {
+  margin: 10px;
+}
+
+.sort-radio-element > label {
+  padding-left: 20px;
+}
+
+.sort-radio-header {
+  display: flex;
+  flex-direction: row;
+}
+
+.sort-radio-header > div {
+  flex: 1;
+  text-align: center;
+}
+
+.sort-radio-footer > button {
+  width: 100%;
+  color: white;
+  background-color: green;
+}
+
+.sort-radio-header > button {
+  position: absolute;
+  height: 60px;
+  z-index: 1;
+}
+
+.sort-radio-header-label > h4 {
+  position: relative;
+  top: 50%;
+  transform: translate(0px, -50%);
+}
+
+.sort-radio-footer {
+  height: 60px;
+}
+
+.sort-radio-footer > button{
+  height: -webkit-fill-available;
+}
+
+.sort-radio-container {
+  height: calc(100%-120px);
+}
+
+.sort-radio-element > label {
+  font-size: larger;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.sort-radio-element {
+  margin: 10px;
+}

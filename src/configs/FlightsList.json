@@ -1,0 +1,160 @@
+{
+    "flightsList" : [
+        {
+        "airLineName": "Ethopian airlines",
+        "sourceLocation" : "DEL",
+        "sourceTime" : "02:30am",
+        "destinationLocation" : "CPT",
+        "destinationTime" : "04:50pm",
+        "totalDuration": "1h 20 min",
+        "stops": "1 Stop",
+        "priceClass": [
+            {
+                "price": "215",
+                "class": "Economy",
+                "seatsLeft": ""
+            },
+            {
+                "price": "212",
+                "class": "Main",
+                "seatsLeft": "2 Seats left"
+            },
+            {
+                "price": "215",
+                "class": "Business",
+                "seatsLeft": ""
+            }
+        ]
+        },
+        {
+        "airLineName": "British airways",
+        "sourceLocation" : "BPL",
+        "sourceTime" : "04:30am",
+        "destinationLocation" : "CPT",
+        "destinationTime" : "06:50pm",
+        "totalDuration": "1h 20 min",
+        "stops": "1 Stop",
+        "priceClass": [
+            {
+                "price": "231",
+                "class": "Economy",
+                "seatsLeft": ""
+            },
+            {
+                "price": "45",
+                "class": "Main",
+                "seatsLeft": ""
+            },
+            {
+                "price": "657",
+                "class": "Business",
+                "seatsLeft": ""
+            }
+        ]
+        },
+        {
+         "airLineName": "Ethopian airlines",
+         "sourceLocation" : "BOM",
+         "sourceTime" : "06:30am",
+         "destinationLocation" : "PNQ",
+         "destinationTime" : "04:50pm",
+         "totalDuration": "1h 20 min",
+         "stops": "1 Stop",
+         "priceClass": [
+             {
+                 "price": "21",
+                 "class": "Economy",
+                 "seatsLeft": ""
+             },
+             {
+                 "price": "43",
+                 "class": "Main",
+                 "seatsLeft": ""
+             },
+             {
+                 "price": "67",
+                 "class": "Business",
+                 "seatsLeft": ""
+             }
+         ]
+        },
+        {
+            "airLineName": "Ethopian airlines",
+            "sourceLocation" : "BOM",
+            "sourceTime" : "06:30am",
+            "destinationLocation" : "PNQ",
+            "destinationTime" : "04:50pm",
+            "totalDuration": "1h 20 min",
+            "stops": "1 Stop",
+            "priceClass": [
+                {
+                    "price": "1020",
+                    "class": "Economy",
+                    "seatsLeft": ""
+                },
+                {
+                    "price": "2020",
+                    "class": "Main",
+                    "seatsLeft": ""
+                },
+                {
+                    "price": "3030",
+                    "class": "Business",
+                    "seatsLeft": ""
+                }
+            ]
+           },
+           {
+            "airLineName": "Ethopian airlines",
+            "sourceLocation" : "BOM",
+            "sourceTime" : "06:30am",
+            "destinationLocation" : "PNQ",
+            "destinationTime" : "04:50pm",
+            "totalDuration": "1h 20 min",
+            "stops": "1 Stop",
+            "priceClass": [
+                {
+                    "price": "129",
+                    "class": "Economy",
+                    "seatsLeft": ""
+                },
+                {
+                    "price": "500",
+                    "class": "Main",
+                    "seatsLeft": ""
+                },
+                {
+                    "price": "721",
+                    "class": "Business",
+                    "seatsLeft": ""
+                }
+            ]
+           },
+           {
+            "airLineName": "Ethopian airlines",
+            "sourceLocation" : "BOM",
+            "sourceTime" : "06:30am",
+            "destinationLocation" : "PNQ",
+            "destinationTime" : "04:50pm",
+            "totalDuration": "1h 20 min",
+            "stops": "1 Stop",
+            "priceClass": [
+                {
+                    "price": "620",
+                    "class": "Economy",
+                    "seatsLeft": ""
+                },
+                {
+                    "price": "1020",
+                    "class": "Main",
+                    "seatsLeft": ""
+                },
+                {
+                    "price": "1992",
+                    "class": "Business",
+                    "seatsLeft": ""
+                }
+            ]
+           }
+    ]
+}

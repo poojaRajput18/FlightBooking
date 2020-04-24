@@ -1,0 +1,37 @@
+
+{
+    "tabListConfig": [
+    {
+        "title": "Flights",
+        "id": "Flight",
+        "hidden": false,
+        "active": true,
+        "renderComponent": "FlightComponent",
+        "key": 1
+    },
+    {
+        "title": "Hotels",
+        "id": "Hotel",
+        "hidden": false,
+        "active": false,
+        "renderComponent": "HotelComponent",
+        "key": 2
+    },
+    {
+        "title": "Cabs",
+        "id": "Cab",
+        "hidden": false,
+        "active": false,
+        "renderComponent": "CabComponent",
+        "key": 3
+    },
+    {
+        "title": "Activities",
+        "id": "Activity",
+        "hidden": false,
+        "active": false,
+        "renderComponent": "ActivityComponent",
+        "key": 4
+    }
+]
+}

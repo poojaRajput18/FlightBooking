@@ -1,0 +1,28 @@
+{
+    "sortListArray" : [
+        {
+          "code": "priceLowToHigh",
+          "decode": "Price ( Lowest to Highest )"
+        },
+        {
+          "code": "priceHightToLow",
+          "decode": "Price ( Highest to Lowest )"
+        },
+        {
+          "code": 3,
+          "decode": "Duration ( Shortest to Longest )"
+        },
+        {
+          "code": 4,
+          "decode": "Duration ( Longest to Shoertest )"
+        },
+        {
+          "code": 5,
+          "decode": "Departure ( Earliest to Latest )"
+        },
+        {
+          "code": 6,
+          "decode": "Departure ( Latest to Earliest )"
+        }
+      ]
+}
